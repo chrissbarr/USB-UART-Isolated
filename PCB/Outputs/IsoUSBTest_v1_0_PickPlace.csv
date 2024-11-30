@@ -1,0 +1,66 @@
+Altium Designer Pick and Place Locations
+E:\Projects\PCB Design\A3D - RUMBA\IsolatedUSBTest\PCB\Outputs\IsoUSBTest_v1_0_PickPlace.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       30/11/24
+Time:       16:07
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"U2","USBLC6-2","TopLayer","SOT95P280X145-6N","10.0093","14.0000","0","ESD Protection IC"
+"J1","","TopLayer","Micro-USB_B_Molex_105017-0001","3.1500","14.0000","270","CONN RCPT USB2.0 MICRO B SMD R/A"
+"U3","ISO7731DBQR","TopLayer","SOP64P600X175-16N","28.8000","14.0000","0","DGTL ISO 3000VRMS 3CH GP 16SSOP"
+"U1","CP2102N-24","TopLayer","QFN50P400X400X80_HS-25N","19.0000","14.0000","0",""
+"TP23","TESTPOINT","TopLayer","TP-THT_TINY","33.3000","12.4125","90","SMD test pin"
+"TP22","TESTPOINT","TopLayer","TP-THT_TINY","24.3865","11.4000","90","SMD test pin"
+"TP21","TESTPOINT","TopLayer","TP-THT_TINY","33.9325","13.6825","90","SMD test pin"
+"TP20","TESTPOINT","TopLayer","TP-THT_TINY","33.1000","14.3175","90","SMD test pin"
+"TP19","TESTPOINT","TopLayer","TP-THT_TINY","33.9325","14.9525","90","SMD test pin"
+"TP18","TESTPOINT","TopLayer","TP-THT_TINY","32.8750","10.7582","90","SMD test pin"
+"TP17","TESTPOINT","TopLayer","TP-THT_TINY","31.5250","19.3000","90","SMD test pin"
+"TP16","TESTPOINT","TopLayer","TP-THT_TINY","16.9000","17.9250","90","SMD test pin"
+"TP15","TESTPOINT","TopLayer","TP-THT_TINY","17.9000","17.9250","90","SMD test pin"
+"TP14","TESTPOINT","TopLayer","TP-THT_TINY","18.8793","17.9250","90","SMD test pin"
+"TP13","TESTPOINT","TopLayer","TP-THT_TINY","24.8000","14.9525","90","SMD test pin"
+"TP12","TESTPOINT","TopLayer","TP-THT_TINY","24.8000","13.6825","90","SMD test pin"
+"TP11","TESTPOINT","TopLayer","TP-THT_TINY","20.8000","16.9079","90","SMD test pin"
+"TP10","TESTPOINT","TopLayer","TP-THT_TINY","21.9000","16.9079","90","SMD test pin"
+"TP9","TESTPOINT","TopLayer","TP-THT_TINY","14.7000","16.8329","90","SMD test pin"
+"TP8","TESTPOINT","TopLayer","TP-THT_TINY","18.0000","5.6000","90","SMD test pin"
+"TP7","TESTPOINT","TopLayer","TP-THT_TINY","23.0000","10.1000","90","SMD test pin"
+"TP6","TESTPOINT","TopLayer","TP-THT_TINY","23.0000","11.2000","90","SMD test pin"
+"TP5","TESTPOINT","TopLayer","TP-THT_TINY","12.1500","10.8250","90","SMD test pin"
+"TP4","TESTPOINT","TopLayer","TP-THT_TINY","22.1000","14.7500","90","SMD test pin"
+"TP3","TESTPOINT","TopLayer","TP-THT_TINY","22.6314","13.7500","90","SMD test pin"
+"TP2","TESTPOINT","TopLayer","TP-THT_TINY","15.6810","12.2949","90","SMD test pin"
+"TP1","TESTPOINT","TopLayer","TP-THT_TINY","10.4692","22.1000","0","SMD test pin"
+"R8","","TopLayer","RES_1608-0603","33.8000","24.0000","90","RES SMD 1K OHM 1% 1/10W 0603"
+"R7","","TopLayer","RES_1608-0603","15.4000","24.0000","90","RES SMD 1K OHM 1% 1/10W 0603"
+"R6","","TopLayer","RES_1608-0603","10.4000","24.0000","90","RES SMD 1K OHM 1% 1/10W 0603"
+"R5","","TopLayer","RES_1608-0603","19.8000","5.6000","180","RES SMD 22K OHM 1% 1/10W 0603"
+"R4","","TopLayer","RES_1608-0603","15.9301","5.6000","180","RES SMD 10K OHM 1% 1/10W 0603"
+"R3","","TopLayer","RES_1608-0603","12.7500","9.6000","180","RES SMD 1K OHM 1% 1/10W 0603"
+"R2","","TopLayer","RES_1608-0603","25.4000","24.0000","90","RES SMD 1K OHM 1% 1/10W 0603"
+"R1","","TopLayer","RES_1608-0603","20.4000","24.0000","90","RES SMD 1K OHM 1% 1/10W 0603"
+"P1","Header 6","TopLayer","HDR1X6-HEADER","39.9900","14.0000","270","Header, 6-Pin"
+"LD5","","TopLayer","LED_1608-0603","23.6000","24.0000","270","LED YELLOW CLEAR CHIP SMD 0603"
+"LD4","","TopLayer","LED_1608-0603","18.6000","24.0000","270","LED YELLOW CLEAR CHIP SMD 0603"
+"LD3","LEDG  0603","TopLayer","LED_1608-0603","32.0000","24.0000","270","LED GREEN CLEAR CHIP SMD 0603"
+"LD2","LEDG  0603","TopLayer","LED_1608-0603","13.6000","24.0000","270","LED GREEN CLEAR CHIP SMD 0603"
+"LD1","LEDG  0603","TopLayer","LED_1608-0603","8.6000","24.0000","270","LED GREEN CLEAR CHIP SMD 0603"
+"L1","","TopLayer","Res_2012-0805","7.2000","9.6000","0","FERRITE BEAD 220 OHM 0805 1LN"
+"C7","Capacitor","TopLayer","CAPC1608X90N","32.1500","18.0000","180","CAP CER 0.1UF 16V X7R 0603"
+"C6","Capacitor","TopLayer","CAPC1608X90N","25.4500","18.0000","0","CAP CER 0.1UF 16V X7R 0603"
+"C5","Capacitor","TopLayer","CAPC1608X90N","10.0000","17.0000","180","CAP CER 0.1UF 16V X7R 0603"
+"C4","Capacitor","TopLayer","CAPC1608X90N","16.0551","9.5550","180","CAP CER 0.1UF 16V X7R 0603"
+"C3","Capacitor","TopLayer","CAPC1608X90N","16.0551","7.9550","180","CAP CER 4.7UF 16V X5R 0603"
+"C2","Capacitor","TopLayer","CAPC1608X90N","19.5750","9.5550","180","CAP CER 0.1UF 16V X7R 0603"
+"C1","Capacitor","TopLayer","CAPC1608X90N","19.5750","7.9550","180","CAP CER 4.7UF 16V X5R 0603"
+"MH1","Screw Hole","TopLayer","M3-Hole-2","3.0000","25.0000","90",""
+"MH4","Screw Hole","TopLayer","M3-Hole-2","39.0000","3.0000","90",""
+"MH3","Screw Hole","TopLayer","M3-Hole-2","39.0000","25.0000","0",""
+"MH2","Screw Hole","TopLayer","M3-Hole-2","3.0000","3.0000","0",""
